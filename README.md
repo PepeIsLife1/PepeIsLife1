@@ -1,5 +1,5 @@
 # 🐸 About Me:
-Currently working on a graphic engine
+**Currently working on a graphic engine**
 
 
 # 💻 Tech Stack:
