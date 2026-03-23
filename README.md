@@ -8,7 +8,4 @@ boh rust
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeIsLife1&theme=dark&show_icons=true&hide_border=true&layout=compact)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepeIsLife1&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PepeIsLife1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
